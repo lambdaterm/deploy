@@ -1,0 +1,12 @@
+*~
+*.swp
+target
+*.iml
+*.ipr
+*.ids
+*.iws
+.idea
+projects/target
+target/
+/.idea/
+/.idea_modules/
